@@ -24,7 +24,7 @@
          "id": 1,
          "from": "user",
          "chat": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum felis neque, eget hendrerit nunc malesuada sit amet. Nullam neque est, congue ac finibus eu, semper blandit mauris. Curabitur sed tempor nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada"
-       },
+       }
      ],
   
      "ChatHistory": [
